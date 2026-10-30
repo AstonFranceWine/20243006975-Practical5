@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="municipality_Beijing">#FF0000</color> <!-- 红色 -->
+    <color name="municipality_shanghai">#FF00FF</color> <!-- 洋红色 -->
+    <color name="municipality_tianjin">#36454F</color> <!-- 炭灰色 -->
+    <color name="municipality_chongqing">#FF8C00</color> <!-- 亮橙色 -->
+    <color name="color_textlight">#FFFFFF</color> <!-- 白色（用于深色背景） -->
+    <color name="color_textdark">#000000</color> <!-- 黑色（用于浅色背景） -->
+    <color name="color_defaultbackground">#F0F0F0</color> <!-- 中性背景色 -->
+</resources>
